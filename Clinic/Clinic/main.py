@@ -9,6 +9,7 @@ with open(file_path, 'r') as file:
     responses = json.load(file)
 
 
+
 # Define keyword patterns
 negation_pattern = re.compile(r"\b(no|not|never)\b", re.IGNORECASE)
 affirmation_pattern = re.compile(r"\b(yes|absolutely)\b", re.IGNORECASE)
