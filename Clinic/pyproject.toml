@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "predictor"
+name = "The Python Argument Clinic"
 version = "0.1.0"
 description = ""
 authors = ["Adambs <adam.ben77@gmail.com>"]
@@ -15,4 +15,4 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-main = "predictor.main:main"
+main = "Clinic.main:main"
