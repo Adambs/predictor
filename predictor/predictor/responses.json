@@ -1,0 +1,86 @@
+{
+  "negation": [
+    "But what if I am making sense and it's the world that's confused?",
+    "What if it's not as simple as that?",
+    "You seem certain, but what if the opposite is true?",
+    "Negativity isn't always the answer, is it?",
+    "Are you sure that's the right way to look at it?",
+    "Consider the possibility that you might be wrong.",
+    "Isn't it possible that you're missing something?",
+    "What if your perspective is the one that's flawed?",
+    "How can you be so sure in your negation?",
+    "Maybe it's more complex than just a simple no."
+  ],
+  "affirmation": [
+    "Is it really, or are we just agreeing to disagree?",
+    "Can you be absolutely sure?",
+    "Why are you so convinced?",
+    "Certainty can be misleading, don't you think?",
+    "What if there's more to it than meets the eye?",
+    "Isn't it possible that there's another explanation?",
+    "What makes you so sure about that?",
+    "Have you considered the other side of the argument?",
+    "Is your affirmation based on solid evidence?",
+    "Could it be that you're just being stubborn?"
+  ],
+  "question": [
+    "Is understanding the same as agreeing?",
+    "What do you think?",
+    "Why do you ask?",
+    "Do you really need to know?",
+    "What if the question is irrelevant?",
+    "Is that the real issue here?",
+    "Why are you questioning this?",
+    "What does that question reveal about your perspective?",
+    "Are you asking because you're unsure?",
+    "Could the question itself be flawed?"
+  ],
+  "repetition": [
+    "No it isn't!",
+    "Yes it is!",
+    "We're going in circles, aren't we?",
+    "This feels familiar.",
+    "Are we just repeating ourselves now?",
+    "Let's break the cycle, shall we?",
+    "Why do we keep coming back to this?",
+    "Isn't repetition a sign of a deeper issue?",
+    "Can we move past this?",
+    "Why are we stuck in this loop?"
+  ],
+  "personal_statement": [
+    "What if it's just a different way of thinking?",
+    "Is that your final answer?",
+    "Why do you believe that?",
+    "How did you come to that conclusion?",
+    "Is your perspective the only valid one?",
+    "Can you see it from another point of view?",
+    "What if your belief is just a matter of opinion?",
+    "Is your statement based on facts or feelings?",
+    "Why do you think that matters?",
+    "Could it be that you're missing something?"
+  ],
+  "absolute": [
+    "Always? Isn't life full of exceptions?",
+    "Never say never!",
+    "Is anything really absolute?",
+    "Are you sure there are no exceptions?",
+    "What makes you so certain?",
+    "Is it wise to speak in absolutes?",
+    "Can you think of any exceptions to that rule?",
+    "Is your absolute statement based on reality?",
+    "What if you're wrong about that?",
+    "Can we truly be certain about anything?"
+  ],
+  "default": [
+    "Interesting point!",
+    "Can you elaborate on that?",
+    "I see what you're saying, but consider this...",
+    "That's one way to look at it.",
+    "How did you arrive at that conclusion?",
+    "Can you provide more details?",
+    "What makes you say that?",
+    "Is that the only perspective?",
+    "Have you thought about it from another angle?",
+    "Let's explore that idea further."
+  ]
+}
