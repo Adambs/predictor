@@ -2,10 +2,12 @@ import re
 import random
 import json
 import streamlit as st
+import os
 
-# Load responses from the JSON file
-with open("responses.json", "r") as file:
+file_path = os.path.join(os.path.dirname(__file__), 'responses.json')
+with open(file_path, 'r') as file:
     responses = json.load(file)
+
 
 # Define keyword patterns
 negation_pattern = re.compile(r"\b(no|not|never)\b", re.IGNORECASE)
