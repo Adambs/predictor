@@ -20,41 +20,21 @@ Welcome to the Argument Clinic! This project is a playful command-line applicati
    ```bash
    git clone https://github.com/yourusername/argument-clinic-ml.git
    cd argument-clinic-ml
-Install Poetry (if not already installed):
 
-bash
-Copy code
-pip install poetry
-Install Dependencies:
+2. Install Poetry (if not already installed):
+   pip install poetry
 
-bash
-Copy code
-poetry install
-Files
-main.py: The main script to run the Argument Clinic.
-responses.json: JSON file containing predefined responses with ML humor.
-Usage
-Place the responses.json file in the same directory as main.py.
+3. Install Dependencies:
+   poetry install
 
-Run the Application:
+4. poetry run: streamlit
+   run main.py
 
-bash
-Copy code
-poetry run streamlit run main.py
-Interact with the Argument Clinic:
-
-Enter your statements in the text input field.
-Press the "Send" button or hit Enter to submit your input.
-The clinic will respond with witty and humorous retorts.
-The session will end after the specified number of exchanges, displaying a friendly message.
-Example
-After starting the application, you will see a welcome message. Enter your statements and engage in a playful argument with the automated system. The responses will include funny references to machine learning concepts, making the interaction both entertaining and educational.
-
-Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request. Contributions are welcome!
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Acknowledgements
 Inspired by Monty Python's "Argument Clinic" sketch.
+
+
