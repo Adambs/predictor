@@ -31,10 +31,10 @@ Welcome to the Argument Clinic! This project is a playful command-line applicati
    run main.py
 
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Acknowledgements
+## Acknowledgements
 Inspired by Monty Python's "Argument Clinic" sketch.
 
 
