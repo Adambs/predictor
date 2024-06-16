@@ -100,6 +100,7 @@ def get_response(user_input):
     return selected_response
 
 
+
 def main():
     st.title("Welcome to the Argument Clinic!")
     st.write("Type your statement below and engage in a playful argument. Type 'exit' to leave.")
